@@ -1,5 +1,5 @@
 # PyCropper
-Small cropping utility using the PIL module. It crops all files in the current directory using the same measurements.
+Small cropping utility using the PIL module and wxPython. It crops all files in the current directory using the same measurements.
 
 # How to use
 Place either the `cropper.exe` or `cropper.py` in the directory containing the images you want cropped and run it.  
