@@ -6,7 +6,7 @@ Place either the `cropper.exe` or `cropper.py` in the directory containing the i
 You'll have to specify the cropped image's coordinates (you can find them using MS Paint or any other image editing utility).
 The default coordinates are set to Zoom shared screens.  
   
-The applcation features three buttons which are used:
+The application features three buttons which are used:
 - to clear all cropped images (in case of wrong coordinates)
 - to crop the images in the current directory
 - to delete the original images
